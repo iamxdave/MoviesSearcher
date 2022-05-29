@@ -17,9 +17,9 @@ Application is the result of Microsoft's tutorial about creating <a href="https:
    >
 </p> 
   There are some redirects on the top to allow the user change current page scene.
-  After entering <b>Movies</b> API allows you to maintain certain operation through a website.
   <br>
-  Allows the user to <b>get, put, post</b> and <b>delete</b> data.
+  After entering <b>Movies</b> API allows you to maintain certain operation through a website.
+  e.g.: <b>get, put, post</b> and <b>delete</b> data.
 
 <p align="center">
   <br>
