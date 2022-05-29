@@ -16,6 +16,8 @@ Application is the result of Microsoft's tutorial about creating <a href="https:
 </p> 
   There are some redirects on the top to allow the user change current page scene.
   After entering <b>Movies</b> API allows you to maintain certain operation through a website. Allows the user to <b>get, put, post and delete</b> data.
+<br>
+
 <p align="center">
   <img src=https://user-images.githubusercontent.com/74014874/170881802-959e7e0c-7e70-4c1e-948a-cbddb4c65c64.png
    >
@@ -27,6 +29,7 @@ Application is the result of Microsoft's tutorial about creating <a href="https:
 
   There is also an option to filter by movies by a category or the title.
 
+<hr>
 <p>
 <b>API is connected to my database by default and to set up yours you need to change ConnectionString in the file appsettings.json</b>
 </p>
