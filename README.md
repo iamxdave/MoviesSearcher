@@ -4,6 +4,7 @@ Application is the result of Microsoft's tutorial about creating <a href="https:
 <br>
 <b>The application meets the assumptions of SOLID, DI and DRY</b>
 <hr>
+
 ## How does it work
 
   Application creates a movie database for a company and stores the instances for passing them to the application user.
