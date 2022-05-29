@@ -1,6 +1,7 @@
 # MoviesSearcher
 Application was made to search movie entries from the database using Razor Pages, EntityFrameworkCore and ASP.NET MVC Core.
 <br>
+<br>
 Application is the result of Microsoft's tutorial about creating <a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0">web app</a>.
 <br>
 <br>
