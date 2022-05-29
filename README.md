@@ -1,5 +1,6 @@
 # MoviesSearcher
 Application was made to search movie entries from the database using Razor Pages, EntityFrameworkCore and ASP.NET MVC Core.
+<br>
 Application is the result of Microsoft's tutorial about creating <a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0">web app</a>.
 <br>
 <b>The application meets the assumptions of SOLID, DI and DRY</b>.
@@ -15,7 +16,9 @@ Application is the result of Microsoft's tutorial about creating <a href="https:
    >
 </p> 
   There are some redirects on the top to allow the user change current page scene.
-  After entering <b>Movies</b> API allows you to maintain certain operation through a website. Allows the user to <b>get, put, post</b> and <b>delete</b> data.
+  After entering <b>Movies</b> API allows you to maintain certain operation through a website.
+  <br>
+  Allows the user to <b>get, put, post</b> and <b>delete</b> data.
 
 <p align="center">
   <br>
